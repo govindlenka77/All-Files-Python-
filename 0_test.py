@@ -11,3 +11,4 @@ def run_cmd(cmd):
     subprocess.run(cmd, shell=True, check=True)
 
 run_cmd("ipconfig /all")
+run_cmd("dir")

@@ -1,0 +1,7 @@
+{
+   
+    "logs_parent_directory":"C:\\Users\\glenka\\OneDrive - Cisco\\Documents\\Python Scripts\\delete\\",
+    "failed_record_pattern":"Traceback|Browser console log|Failed|Exception|Error",
+    "csv_report_fields":"log_file|build_id|suite_name|component|job_url|testcase_name|failed_record|failed_pattern"
+}
+

@@ -12,3 +12,4 @@ def run_cmd(cmd):
 
 run_cmd("ipconfig /all")
 run_cmd("dir")
+run_cmd("help")
